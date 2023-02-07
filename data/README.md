@@ -6,3 +6,4 @@ Here are the list of them.
 
 You could get these files by following the procedures in the book.
 However, if you still can't get the files, please email me.
+📧 realzero313@gm.gist.ac.kr
